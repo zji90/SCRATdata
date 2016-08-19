@@ -1,0 +1,1 @@
+This dataset contains the GM12878 and HEK293T single-cell ATAC-seq data analyzed in the SCRAT paper. The aligned bam files (aligned to hg19) can be found in xxx and the summarized features can be found in xxx.
