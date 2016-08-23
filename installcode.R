@@ -1,3 +1,5 @@
+source("https://bioconductor.org/biocLite.R")
+biocLite("GenomicAlignments")
 if(!require("shiny")) install.packages("shiny",dependencies=T)
 if(!require("ggplot2")) install.packages("ggplot2",dependencies=T)
 if(!require("reshape2")) install.packages("reshape2",dependencies=T)
